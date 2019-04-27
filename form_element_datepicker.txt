@@ -1,0 +1,4 @@
+<fieldset>
+<legend><span class="number">1</span> Due Date</legend>
+<input type="text" name="datepicker" id="datepicker">
+</fieldset>
